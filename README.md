@@ -5,8 +5,8 @@ One-line code review comment that approves a pull request with quiet existential
 Competition: [Two Days of Quiet Dread](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
 
 ![make.fun](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018.svg)
-![rank](https://make.fun/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/xiangbingxi/makefun-two-days-quiet-dread/rank.svg)
-![reward](https://make.fun/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/xiangbingxi/makefun-two-days-quiet-dread/reward.svg)
+![rank](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/xiangbingxi/makefun-two-days-quiet-dread/rank.svg)
+![reward](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/xiangbingxi/makefun-two-days-quiet-dread/reward.svg)
 
 ## Entry
 
